@@ -44,3 +44,8 @@ nav img {
 .flex img {
     width: 100%;
 }
+.grid {
+    justify-content: space-around;
+    align-items: center;
+    row-gap: 20px;
+}
