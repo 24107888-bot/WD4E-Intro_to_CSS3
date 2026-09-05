@@ -49,3 +49,8 @@ nav img {
     align-items: center;
     row-gap: 20px;
 }
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
