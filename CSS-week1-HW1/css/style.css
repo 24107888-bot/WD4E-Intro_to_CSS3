@@ -37,3 +37,7 @@ p {
 nav img {
     width: 10%;
 }
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+}
