@@ -41,3 +41,6 @@ nav img {
     display: grid;
     grid-template-columns: 40% 40%;
 }
+.flex img {
+    width: 100%;
+}
